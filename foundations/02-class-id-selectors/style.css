@@ -1,0 +1,20 @@
+.number {
+    background-color: rgb(212, 152, 152);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#unique-number {
+    color: rgb(38, 0, 255);
+    font-size: 35px;
+}
+
+.number-cooler {
+    background-color: rgb(204, 135, 135);
+    font-size: 25px;
+}
+
+#unique-numberfour {
+    background-color: rgb(34, 231, 34);
+    font-size: 24px;
+    font-weight: bold;
+}
